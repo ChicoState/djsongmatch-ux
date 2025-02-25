@@ -1,5 +1,5 @@
 # Sketches
 
-![!!!Caption for image!!!](sketch-1.heic)
+![!!!Caption for image!!!](sketch-1.png)
 
 !!!Give context by explaining each sketch image!!!
