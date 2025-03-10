@@ -6,7 +6,15 @@ Current software does not provide free tools to recommend musically-compatible s
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+In order to better understand the current state of song matching and analysis software, DJ Song Match's user experience team (n=2) conducted competitive analysis on other software providers and heuristic evaluations on competitors in the same field.
+
+We compiled a list of competitors by utilizing search engines to query for DJ analysis apps. Further, our team scoured through online forums such as Reddit comment sections to discover users' recommended apps and their experience of them.
+
+After gathering a list of competitors, our team performed competitive analysis by inspecting their respective websites to understand their pricing model, feature list, and user interface.
+
+Finally, our team completed a heuristic evaluation on one particular competitor, Sort by Tune by utilizing Jakob Nielsen's 10 general principles for interactive design. Each member of the team personally interacted with Sort by Tune and provided a score and summary of how closely the web app aligned with Nielsen's principles.
+
+Following the individual evaluations, our team gathered together in person and verbally shared our reasons for providing a heuristic a particular score. After deliberation between team members, we consolidated our individual findings into a unified heuristic evaluation that highlighted key usability strengths of weaknesses of the app.
 
 ## Findings
 
