@@ -24,7 +24,13 @@ DJ Song Match is software created to improve the process of finding compatible s
 
 **Executive Summary**
 
-!!!Put phase I Executive Summary here!!!
+Initial research and design concentrated on how DJ Song Match will improve the experience of discovering and analyzing compatible songs.
+- Competitive analysis revealed opportunities to **challenge industry norms** by differentiating themselves from the competition:
+    - Dedicated DJ Software: Customers displeased with current **fees and subscriptions** needed for DJ mixing software.
+    - Music Streaming Services: Lacks **user control** of song characteristics and features to **smoothly transition** between songs.
+    - Manual Sorting: Requires extensive **effort and time**. Affected by **personal biases**.
+    <!-- - Unsatisfactory Graphical User Interfaces: **Cluttered and confusing** app interactions make navigating apps frustrating. -->
+
 
 [Full phase I report](phaseI/)
 
