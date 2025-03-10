@@ -7,7 +7,7 @@ DJ Song Match is software created to improve the process of finding compatible s
 
 ## UX Team Members
 
-* **[Lawjay Lee](/)**
+* **[Lawjay Lee](https://github.com/UsabilityEngineering/portfolio-Lomzem)**
     - Created personas and scenarios for Diego and Ryan
     - Created sketch for Loading page and Main page with Dropdown
     - Performed Competitive Analysis on Lexicon and Mashup 2
