@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Current software does not provide free tools to recommend musically-compatible songs in an efficient manner. The first phase of this project will prioritize providing a simple user interface that is could efficiently be navigated. Key features of the app will include matching songs based on the metrics of tonal key and tempo.
 
 ## Methods
 
