@@ -30,7 +30,9 @@ Initial research and design concentrated on how DJ Song Match will improve the e
     - Music Streaming Services: Lacks **user control** of song characteristics and features to **smoothly transition** between songs.
     - Manual Sorting: Requires extensive **effort and time**. Affected by **personal biases**.
     <!-- - Unsatisfactory Graphical User Interfaces: **Cluttered and confusing** app interactions make navigating apps frustrating. -->
-
+- Heuristic evaluation highlighted effective design patterns and areas that could be improved upon:
+    - **Keyboard shortcuts** and **advanced settings** could improve **efficiency** for experienced power-users.
+    - Generating matches lacks user **input** and **control**
 
 [Full phase I report](phaseI/)
 
