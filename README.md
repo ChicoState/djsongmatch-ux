@@ -33,6 +33,10 @@ Initial research and design concentrated on how DJ Song Match will improve the e
 - Heuristic evaluation highlighted effective design patterns and areas that could be improved upon:
     - **Keyboard shortcuts** and **advanced settings** could improve **efficiency** for experienced power-users.
     - Generating matches lacks user **input** and **control**
+- Personas and scenarios identified user experience needs:
+    - **Beginner-friendly** interface for inexperienced artists
+    - Easier song matching on **mobile** without the need for a **desktop computer**
+    - Methods to **filter explicit** songs from recommendations
 
 [Full phase I report](phaseI/)
 
