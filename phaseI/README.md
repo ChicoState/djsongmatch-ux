@@ -18,18 +18,11 @@ Following the individual evaluations, our team gathered together in person and v
 
 ## Findings
 
-Competitive Analysis:
-  - Many apps dedicated to analyzing and matching songs require paid subscriptions, which could be a sticking point for many users.
-  - Baseline features that these apps provide include song analysis based on BPM, key, energy, and harmonics (often used to determine genre), and manual adjustments to song ordering. Local audio file support is usually provided.
-  - Of the higher-end apps, learnability could be a problem. User interfaces were cluttered and difficult to navigate.
-  - Almost all applications were PC-exclusive.
-  - Hand-sorting is always an option for users that have enough time or who don't find the benefits provided by dedicated applications to be worth their cost.
+In the competitive analysis, we found that the baseline features that apps dedicated to analyzing and matching songs provide include song analysis based on BPM, key, energy, and harmonics (often used to determine genre), and manual adjustments to song ordering. Some of the apps also supported local audio file analysis, but this was not always the case. Of these higher-end apps, learnability could be a problem, as user interfaces were sometimes cluttered and difficult to navigate.
 
-Heuristic Evaluation of Sort By Tune:
-  - Its greatest strength was its overall learnability, providing useful documentation and having very a very organized layout.
-  - Uses consistent wording and helpful visuals to indicate the overall status of the sorted playlist.
-  - Fully reliant on Spotify as a database, limiting its use to organizing Spotify playlists.
-  - Lacks any kind of shortcuts for advanced users.
+Almost all of the apps were PC exlusive, and most required paid subscriptions as well, which could be a sticking point for many users. This is especially important because one of the competitors for these apps is hand-sorting, which is always an option for users that have enough time or who don't find the benefits provided by dedicated applications to be worth their cost. Hand-sorting is an option that, while extremely time-consuming, offers users full and complete control over mixing, with no restrictions on medium.
+
+In the heuristic evaluation of Sort By Tune, we found that its greatest strength was its overall learnability, providing useful documentation and having very a very organized layout. Sort By Tune uses consistent wording and helpful visuals to indicate the overall status of the sorted playlist, and gives users a lot of options for organizing their playlists. However, Sort By Tune lacks any kind of shortcuts for advanced users, and is fully reliant on Spotify as a database, limiting its use to organizing Spotify playlists.
 
 ## Conclusions
 
@@ -39,6 +32,6 @@ From the heuristic evaluation, we learned how one such application both succeede
 
 ## Caveats
 
-An important factor that has limited our research is that nobody on our team has experience working as a DJ, and don't know what industry standards are. As such, a large portion of our analysis comes from the standpoint for casual users who simply have an interest in music. Further, both usability engineers come from a technology-oriented background as computer science majors. As such, we may have certain expectations for technology that many users may not share. Finally, because our team lacked the budget to spend money on competitors' apps, we lacked detailed introspection in the actual experience of using different competitors' products.
+An important factor that has limited our research is that nobody on our team has experience working as a DJ, and don't know what industry standards are. As such, a large portion of our analysis comes from the standpoint for casual users who simply have an interest in music. Further, both usability engineers come from a technology-oriented background as computer science majors. As such, we may have certain expectations for technology that many users may not share. Finally, because our team lacked the budget to spend money on competitors' apps, we lacked detailed introspection in the actual experience of using different competitors' products (with the exception of Sort By Tune).
 
 <!-- !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!! -->
