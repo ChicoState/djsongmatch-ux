@@ -37,6 +37,10 @@ Initial research and design concentrated on how DJ Song Match will improve the e
     - **Beginner-friendly** interface for inexperienced artists
     - Easier song matching on **mobile** without the need for a **desktop computer**
     - Methods to **filter explicit** songs from recommendations
+- Sketches and diagrams demonstrate interface features:
+    - Loading page for **showing progress** during long computations
+    - **Showing/Hiding** configuration menu to **reduce visual clutter**
+    - **Manipulation** and **organization** of songs and playlists
 
 [Full phase I report](phaseI/)
 
