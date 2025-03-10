@@ -6,7 +6,10 @@
 
 ## UX Team Members
 
-* **[Lawjay Lee](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
+* **[Lawjay Lee](/)**
+    - Created personas and scenarios for Diego and Ryan
+    - Created sketch for Loading page and Main page with Dropdown
+    - Performed Competitive Analysis on Lexicon and Mashup 2
 * **[!!!Person B name!!!](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
