@@ -2,7 +2,8 @@
 
 # DJ Song Match
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+<!-- !!!Brief introduction to the project and the problem it is intended to solve!!! -->
+DJ Song Match is software created to improve the process of finding compatible songs. Similar software are blocked behind paywalls and lack useful features such as contrasting genres. DJ Song Match will both be free and open source and provide song analysis features that other programs do not have.
 
 ## UX Team Members
 
