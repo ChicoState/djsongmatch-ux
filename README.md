@@ -27,18 +27,18 @@
 
 [Full phase I report](phaseI/)
 
-# Phase II: Refining interaction and designing wireframes
-
-**Executive Summary**
-
-!!!Put phase II Executive Summary here!!!
-
-[Full phase II report](phaseII/)
-
-# Phase III: Prototypes and User Testing
-
-**Executive Summary**
-
-!!!Put phase II Executive Summary here!!!
-
-[Full phase III report](phaseIII/)
+<!-- # Phase II: Refining interaction and designing wireframes -->
+<!---->
+<!-- **Executive Summary** -->
+<!---->
+<!-- !!!Put phase II Executive Summary here!!! -->
+<!---->
+<!-- [Full phase II report](phaseII/) -->
+<!---->
+<!-- # Phase III: Prototypes and User Testing -->
+<!---->
+<!-- **Executive Summary** -->
+<!---->
+<!-- !!!Put phase II Executive Summary here!!! -->
+<!---->
+<!-- [Full phase III report](phaseIII/) -->
