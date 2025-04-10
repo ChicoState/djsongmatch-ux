@@ -8,7 +8,7 @@
 
 Our team utilized **informal feedback** and **cognitive walkthroughs** to gather external insight into our designs.
 
-The informal feedback first involved presenting a working product demonstration to an audience (n=35). During the demonstration, the software engineering team (n=6) executed key tasks within the app to highlight its different features. Following this showcase, the team asked the audience a single question to collect their feedback.
+The informal feedback first involved presenting a working product demonstration to an audience (n=35) of undergraduate software engineering students. During the demonstration, the software engineering team (n=6) executed key tasks within the app to highlight its different features. Following this showcase, the team asked the audience a single question to collect their feedback.
 
 The software engineering and usability teams collaborated to determine which prompt question to present to the audience. Ultimately, we selected a question that would provide insights into requested future functionalities. Specifically, the software engineering team asked, "What characteristics would you care about most in the recommendation algorithm?" This question is especially relevant to us because our app revolves around recommending songs with similar characteristics to users.
 
@@ -16,7 +16,9 @@ The software engineering and usability teams collaborated to determine which pro
 
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+Our software engineering team received six responses from the informal feedback.
+
+<!-- !!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!! -->
 
 ## Conclusions
 
