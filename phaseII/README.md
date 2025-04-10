@@ -6,7 +6,13 @@
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+Our team utilized **informal feedback** and **cognitive walkthroughs** to gather external insight about our designs.
+
+The informal feedback first involved presenting a working product demonstration to an audience (n=35). During the demonstration, the software engineering team (n=6) executed key tasks themselves within the app to highlight its different features. Following this showcase, the team asked a single question to the audience to collect their feedback.
+
+The software engineering and usability teams collaborated to determine which prompt question to present to the audience. Ultimately, we selected a question that would provide insights into requested future functionalities. Specifically, the software engineering team asked the question, "What characteristics would you care about most in the recommendation algorithm?" This question is especially relevant to us because our app revolves around recommending songs with similar characteristics to users.
+
+<!-- !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!! -->
 
 ## Findings
 
