@@ -16,7 +16,7 @@ The software engineering and usability teams collaborated to determine which pro
 
 ## Findings
 
-Our software engineering team received six responses from the informal feedback.
+Our software engineering team received six responses from the informal feedback. The first respondent asked for a locking mechanism for categories to receive consistent recommendations.
 
 <!-- !!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!! -->
 
