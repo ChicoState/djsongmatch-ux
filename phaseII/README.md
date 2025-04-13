@@ -14,6 +14,10 @@ The software engineering and usability teams collaborated to determine which pro
 
 Our team also conducted cognitive walkthroughs to receive qualitative feedback about the usability of our wireframes. First, our team submitted completed drafts for our wireframes in the communication platform Slack. Our team also provided the personas and scenarios we developed that testers used to contextualize their walkthroughs.
 
+Each team in the Slack discussion group (n=30) submitted wireframes, personas, and scenarios for review. The professor overseeing all the teams tasked each team to perform cognitive walkthroughs for two other teams' apps. Therefore, the testers involved in the cognitive walkthrough for our app voluntarily provided their feedback, and our team did not choose which people would perform the cognitive walkthroughs.
+
+In the posting for our cognitive walkthrough request, our team provided four personas testers could use to contextualize their cognitive walkthroughs. Each persona had one scenario associated with them. Testers chose the persona and scenario that interested them the most.
+
 <!-- !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!! -->
 
 ## Findings
