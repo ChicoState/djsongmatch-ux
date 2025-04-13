@@ -16,7 +16,9 @@ The software engineering and usability teams collaborated to determine which pro
 
 ## Findings
 
-Our software engineering team received six responses from the informal feedback. The first respondent asked for a locking mechanism for categories to receive consistent recommendations.
+Our software engineering team received six responses from the informal feedback. The first respondent asked for a locking mechanism for categories to receive consistent recommendations. The second respondent requested our app to incorporate genre similarity into our recommendation algorithm.
+
+The informal feedback also provided the novel consideration of including a filter for ranges of release dates of songs. Moreover, another audience member requested a language filter to ensure users could receive recommendations in a common language. Finally, the last respondent concluded that our app lacked support for creating a queue of apps that tracks which songs the user wished to preserve.
 
 <!-- !!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!! -->
 
