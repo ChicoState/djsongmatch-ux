@@ -28,4 +28,6 @@ The informal feedback also provided the novel consideration of including a filte
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The limited diversity of audience members restricted the depth of our informal feedback. We presented our demonstration and questions to a classroom of undergraduate software engineering students. As such, many respondents had above-average technical ability. Because of this, their feedback could potentially overlook introductory features that would be helpful for less adept users.
+
+<!-- !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!! -->
