@@ -30,6 +30,10 @@ Our software engineering team received six responses from the informal feedback.
 
 The informal feedback also provided the novel consideration of including a filter for ranges of release dates of songs. Moreover, another audience member requested a language filter to ensure users could receive recommendations in a common language. Finally, the last respondent concluded that our app lacked support for creating a queue of apps that tracks which songs the user wished to preserve.
 
+Results from the cognitive walkthroughs identified areas of confusion in our app. One tester noted that the search bar to select a song did not signal a large enough call for action. The search bar's visual design suggests that its purpose is to query for information rather than being the core first step of using our app.
+
+Another tester noted that our choice to initially populate our recommendation table with the words "No matching songs" created confusion for the user upon first entering the app. They also highlighted the ambiguity of different functionality in our app. The "Export" button does not provide enough information about what, where, or how our app exports information. The Plus and Minus buttons are ambiguous in how they will affect each list of songs. Finally, the user's confusion around how our app defined song metrics like "Liveliness" and "Loudness" indicated that our app did not provide sufficient context and clarification to support their understanding.
+
 <!-- !!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!! -->
 
 ## Conclusions
