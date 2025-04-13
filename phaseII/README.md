@@ -6,9 +6,11 @@
 
 ## Methods
 
+<!-- !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!! -->
+
 Our team utilized **informal feedback** and **cognitive walkthroughs** to gather external insight into our designs.
 
-The informal feedback first involved presenting a working product demonstration to an audience (n=35) of undergraduate software engineering students. During the demonstration, the software engineering team (n=6) executed key tasks within the app to highlight its different features. Following this showcase, the team asked the audience a single question to collect their feedback.
+The informal feedback first involved presenting a working product demonstration to an audience (n=35) of undergraduate software engineering students. During the demonstration, the software engineering team (n=6) executed key tasks within the app to highlight its different features. Following this showcase, the team asked the audience a single question to collect feedback.
 
 The software engineering and usability teams collaborated to determine which prompt question to present to the audience. Ultimately, we selected a question that would provide insights into requested future functionalities. Specifically, the software engineering team asked, "What characteristics would you care about most in the recommendation algorithm?" This question is especially relevant to us because our app revolves around recommending songs with similar characteristics to users.
 
@@ -20,7 +22,7 @@ At each step of completing the goal, testers noted which actions they took, desc
 
 Following each simulated persona's attempt to complete the designated goal, regardless of whether they succeeded or discontinued the process, the testers would reply to our posting in Slack with the notes they compiled during the cognitive walkthrough.
 
-<!-- !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!! -->
+Our app received four cognitive walkthroughs that simulated three unique personas and scenarios. The testers did not provide solutions to their difficulties during their cognitive walkthrough. Instead, our usability team analyzed the confusion or satisfaction testers noted at each step and identified potential changes we could introduce to our wireframes to address these difficulties.
 
 ## Findings
 
