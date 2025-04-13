@@ -18,7 +18,7 @@ In the posting for our cognitive walkthrough request, our team provided four per
 
 At each step of completing the goal, testers noted which actions they took, describing whether their persona would understand what to do at each step and whether they could confirm that they made progress towards completing their goal.
 
-Following each simulated persona's attempt to complete the designated goal, regardless of whether they succeeded or discontinued the progress, the testers would reply to our posting in Slack with the notes they compiled during the cognitive walkthrough.
+Following each simulated persona's attempt to complete the designated goal, regardless of whether they succeeded or discontinued the process, the testers would reply to our posting in Slack with the notes they compiled during the cognitive walkthrough.
 
 <!-- !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!! -->
 
