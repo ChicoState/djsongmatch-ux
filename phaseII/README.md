@@ -12,6 +12,8 @@ The informal feedback first involved presenting a working product demonstration 
 
 The software engineering and usability teams collaborated to determine which prompt question to present to the audience. Ultimately, we selected a question that would provide insights into requested future functionalities. Specifically, the software engineering team asked, "What characteristics would you care about most in the recommendation algorithm?" This question is especially relevant to us because our app revolves around recommending songs with similar characteristics to users.
 
+Our team also conducted cognitive walkthroughs to receive qualitative feedback about the usability of our wireframes. First, our team submitted completed drafts for our wireframes in the communication platform Slack. Our team also provided the personas and scenarios we developed that testers used to contextualize their walkthroughs.
+
 <!-- !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!! -->
 
 ## Findings
