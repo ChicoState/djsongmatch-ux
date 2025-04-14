@@ -50,6 +50,8 @@ From the cognitive walkthrough, we observed flaws in our wireframe and planned i
 
 ## Caveats
 
-The limited diversity of audience members restricted the depth of our informal feedback. We presented our demonstration and questions to a classroom of undergraduate software engineering students. As such, many respondents had above-average technical ability. Because of this, their feedback could potentially overlook introductory features that would be helpful for less adept users.
+The limited diversity of audience members restricted the depth of our informal feedback. We presented our demonstration and questions to a classroom of undergraduate software engineering students with an approximate average age of 20. As such, many respondents had above-average technical ability. Because of this, their feedback could potentially overlook introductory features that would be helpful for less adept users.
+
+Our cognitive walkthroughs may not have faithfully captured how our personas would have interacted with our app. Instead of allowing testers to from their perspective, we asked them to take the role of the personas we provided. As such, we may have received responses that reflected the testers' interpretations of personas rather than genuine user behaviors, potentially limiting the accuracy and authenticity of the feedback collected.
 
 <!-- !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!! -->
