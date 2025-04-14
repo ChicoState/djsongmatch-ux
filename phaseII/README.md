@@ -34,6 +34,8 @@ Results from the cognitive walkthroughs identified areas of confusion in our app
 
 Another tester noted that our choice to initially populate our recommendation table with the words "No matching songs" created confusion for the user upon first entering the app. They also highlighted the ambiguity of different functionality in our app. The "Export" button does not provide enough information about what, where, or how our app exports information. The Plus and Minus buttons are ambiguous in how they will affect each list of songs. Finally, the user's confusion around how our app defined song metrics like "Liveliness" and "Loudness" indicated that our app did not provide sufficient context and clarification to support their understanding.
 
+The third tester expressed satisfaction with specific features in the app, specifically, they enjoyed the ability to filter by song release year and save filter presents. Again, this tester expressed that users get overwhelmed and confused upon starting the app. Eventually, this tester discerned that the app required them to interact with the search bar as the first step. Ultimately, this tester concluded that their persona would understand how to make progress in our app and achieve their goal. However, they noted dissatisfaction with the Advance Filters being separated to a different page from the main page, inconveniently requiring the user to navigate between two pages.
+
 <!-- !!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!! -->
 
 ## Conclusions
