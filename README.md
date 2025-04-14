@@ -17,6 +17,7 @@ DJ Song Match is software created to improve the process of finding compatible s
   - Created personas and scenarios for Ashley and Michael
   - Created sketch for Home Page, Main Page (no dropdown), and Preset Menu
   - Performed Competitive Analysis on hand-sorting, Spotify auto-playlist, and Sort By Tune
+  - Contributed to the Figma wireframes
 
 # User-Centered Design Artifacts
 
@@ -60,7 +61,7 @@ Formative evaluations and outside input used in order to refine the layout, impr
   - Method of selecting a **date range** for matching songs.
   - Search for **similar or matching genres** of music.
   - Potential for matching based on **language of lyrics**.
-- Wireframe created to demonstrate application layout and primary features:
+- Figma wireframe created to demonstrate application layout and primary features:
   - Basic filters **easily accessible** with additional, advanced filters hidden in a **pop-up menu**.
   - Search bar can be used to **find specific songs**, or can **match songs** from the current playlist.
   - Table of recommended songs display **tempo**, **key**, and how closely they **match the target song**.
