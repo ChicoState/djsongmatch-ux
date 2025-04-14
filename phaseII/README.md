@@ -2,7 +2,7 @@
 
 ## Introduction
 
-While we had previously established several baseline features that our app should provide, the planned layout was incomplete and contained features differing from those we planned to implement. The second phase of our project sought to rectify such issues, focusing on simplifying the app's layout by more directly prioritizing specific features. Rather than reorganizing music playlists, our app's new goal is to create new playlists by providing song recommendations from a database.
+In this phase, our team focused on defining our user interface layout and how users will interact with our app. While we had previously established several baseline features that our app should provide, the planned layout was incomplete and contained features differing from those we planned to implement. The second phase of our project sought to rectify such issues, focusing on simplifying the app's layout by more directly prioritizing specific features. Rather than reorganizing music playlists, our app's new goal is to create new playlists by providing song recommendations from a database.
 
 ## Methods
 
