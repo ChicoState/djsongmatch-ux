@@ -53,7 +53,23 @@ Initial research and design concentrated on how DJ Song Match will improve the e
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+Formative evaluations and outside input used in order to refine the layout, improve the user experience, and add additional options for how DJ Song Match finds compatible songs.
+
+- Informal feedback from audience given the question "What characteristics would you care about most in the recommendation algorithm?" granted insight into **additional desired filters**:
+  - Method of selecting a **date range** for matching songs.
+  - Search for **similar or matching genres** of music.
+  - Potential for matching based on **language of lyrics**.
+- Wireframe created to demonstrate application layout and primary features:
+  - Basic filters **easily accessible** with additional, advanced filters hidden in a **pop-up menu**.
+  - Search bar can be used to **find specific songs**, or can **match songs** from the current playlist.
+  - Table of recommended songs display **tempo**, **key**, and how closely they **match the target song**.
+  - Songs in playlist can be easily **reordered** or **removed**; **undo and redo** buttons provided for **user control**.
+- Cognitive walkthrough demonstrated flaws in layout to be iterated upon and corrected:
+  - Users generally **overwhelmed** or **confused** about how to start - need to **focus their attention** on the search bar as a **call-to-action**.
+  - Some buttons deemed **ambiguous** as to their specific functionality.
+  - **Clarification** necessary for **song metric terms** such as "danceability" and "liveliness".
+  - Demonstration **lacking account page**. Even when added, important to **distinguish** features that **do** and **don't** require an **account**.
+  - One user expressed worry about lack of ways to **curate the recommended songs list** or to **play songs in-app**.
 
 [Full phase II report](phaseII/)
 
