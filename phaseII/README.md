@@ -42,7 +42,9 @@ The final cognitive walkthrough revealed confusion about our app's account and s
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The results of the informal feedback revealed key functionality our team should include in our wireframes. Based on the request for a release date filter, our usability team included an area for year filtering in our wireframes. Future wireframes will also include language and locking features.
+
+<!-- !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!! -->
 
 ## Caveats
 
