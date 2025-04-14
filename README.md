@@ -12,6 +12,7 @@ DJ Song Match is software created to improve the process of finding compatible s
   - Created personas and scenarios for Diego and Ryan
   - Created sketch for Loading page and Main page with Dropdown
   - Performed Competitive Analysis on Lexicon and Mashup 2
+  - Contributed to the Figma wireframes
 - **[Adrian Spinali](https://github.com/UsabilityEngineering/ux-journal-OblivionAXiS)**
   - Created personas and scenarios for Ashley and Michael
   - Created sketch for Home Page, Main Page (no dropdown), and Preset Menu
