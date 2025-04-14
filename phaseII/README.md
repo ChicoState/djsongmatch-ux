@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+While we had established several baseline features that our app will provide, the planned layout for the app was incomplete and contained features differing from those we actually planned to implement. The second phase of our project sought to rectify such issues, focusing on simplifying the app's layout by more directly catering it to the features that are being prioritized at this time. Rather than reorganizing music playlists, our true goal is to help create new playlists by providing matching songs from a database.
 
 ## Methods
 
@@ -42,7 +42,9 @@ The final cognitive walkthrough revealed confusion about our app's account and s
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+As a result of the findings from our research methods, we have made numerous changes planned for our current and future design artifacts. From the informal feedback, we are able to better fine-tune both our basic and advanced filter systems to contain criteria that our users care about, including date range and genre similarity filters. An interesting proposition is matching the launguage of lyrics, which will be a beneficial feature if the algorithm is capable of supporting it at this time.
+
+From the cognitive walkthrough, we observed flaws in our wireframe and can make improvements based on them. We need to better signify that the search bar is necessary to initialize a playlist when no other tracks are present, making it larger and in a more prominent position - as well as adding some text indicating that the search bar is the starting point when first opening the app. The cognitive walkthrough also reinforced the necessity of adding tooltips to help users understand what certain metrics mean; "danceability" and "liveliness" are easily measureable by an algorithm but if not understood by the user as well then the song matches they are given will not be ones that they expect. Finally, our current wireframe had not yet implemented login or signup pages, as well as failing to inform the user that an account is not required to be used, only for certain features.
 
 ## Caveats
 
