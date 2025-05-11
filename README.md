@@ -75,10 +75,10 @@ Formative evaluations and outside input used in order to refine the layout, impr
 
 [Full phase II report](phaseII/)
 
-<!-- # Phase III: Prototypes and User Testing -->
-<!---->
-<!-- **Executive Summary** -->
-<!---->
-<!-- !!!Put phase II Executive Summary here!!! -->
-<!---->
-<!-- [Full phase III report](phaseIII/) -->
+# Phase III: Prototypes and User Testing
+
+**Executive Summary**
+
+!!!Put phase II Executive Summary here!!!
+
+[Full phase III report](phaseIII/)
