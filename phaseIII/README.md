@@ -16,6 +16,26 @@ Our software engineering and usability teams collaborated to determine which pro
 
 Our team also conducted several user tests to receive both qualitative
 and quantitative feedback from users regarding our user interface.
+First, our team developed prototypes of our app that users could
+interact with. Then, our team selected six (n=6) total participants
+for our user tests. The user tests involved having one member of our team
+moderate a 30-minute testing session with one of the participants. In
+the sessions, our moderator provided the prototype to the participant
+and assigned them several tasks to complete by interacting with the
+prototype.
+
+During the participant interactions, our moderator encouraged the
+participant to orally voice their thoughts with every interaction. Our
+moderator took notes of how the participant navigated our app and
+summarized their thoughts. Following each task, our moderator asked
+the participant to subjectively rate the difficulty of the task on a
+scale from one to five to gather quantitative data about our
+interface.
+
+The actual procedure for the user tests involved more intricacies such
+as confidentiality of participants. For full details regarding the
+procedure of our user tests, see the [attached protocol
+PDF](protocol.pdf).
 
 <!-- !!! Describe research methods you used to discover new insights,
 which explains the purpose of each. Provide enough detail that someone
