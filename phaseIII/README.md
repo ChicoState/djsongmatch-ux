@@ -25,7 +25,7 @@ and assigned them several tasks to complete by interacting with the
 prototype.
 
 During the participant interactions, our moderator encouraged the
-participant to orally voice their thoughts with every interaction. Our
+participant to voice their thoughts with every interaction. Our
 moderator took notes of how the participant navigated our app and
 summarized their thoughts. Following each task, our moderator asked
 the participant to subjectively rate the difficulty of the task on a
