@@ -63,10 +63,16 @@ informal feedback. We presented our demonstration and questions to a
 classroom of undergraduate software engineering students with an
 approximate average age of 20. As such, many respondents had
 above-average technical ability. Because of this, their perception of
-the user interface could differ from the perception from less
-technologically-adept users.
+the user interface could differ from the perception of less
+technologically adept users.
 
-The lack of demographic diversity in our participants also
+The lack of demographic diversity in participants limited our insights
+from the user tests. All six of our participants were male usability
+engineering students with a background in technology and an
+approximate average age of 20. Because of this, our user study is not
+exhaustive of all possible users.
+
+<!-- TODO: Add stimulations to the conclusions we made -->
 
 <!-- !!! Considerations and/or limitations to the methods you chose
 and the findings/conclusions drawn from them. In other words, give
