@@ -58,6 +58,16 @@ recommendations based on the latest user insights. !!! -->
 
 ## Caveats
 
+The limited diversity of audience members restricted the depth of our
+informal feedback. We presented our demonstration and questions to a
+classroom of undergraduate software engineering students with an
+approximate average age of 20. As such, many respondents had
+above-average technical ability. Because of this, their perception of
+the user interface could differ from the perception from less
+technologically-adept users.
+
+The lack of demographic diversity in our participants also
+
 <!-- !!! Considerations and/or limitations to the methods you chose
 and the findings/conclusions drawn from them. In other words, give
 warnings if there are limitations to your research such as not being
