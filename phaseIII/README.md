@@ -132,6 +132,15 @@ team recommends removing the three Danceability, Energy, and Loudness
 sliders from the main page. Instead, the app should store all sliders
 in the Advanced Filters menu.
 
+All participants from the User Study successfully identified and
+utilized the Export button required by Task 3. This indicates that the
+visual design of the button does not need much improvement. However,
+because two participants identified that they expected the Export
+button to be positioned closer to the tables, we recommend that, in
+addition to the Export button in the top navigation bar, there should
+be another button in the playlist table that enables them to export
+their playlist.
+
 ## Caveats
 
 The limited diversity of audience members restricted the depth of our
