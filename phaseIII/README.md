@@ -5,6 +5,11 @@
 <!-- !!! Describe the general problem that the project is trying to
 solve and the focus of this interval of work !!! -->
 
+In this interval of work, our group conducted informal feedback and user
+studies to identify flaws and strengths in the user interface of our
+app. We would use the results of these user studies to improve the
+effectiveness and satisfaction of our app.
+
 ## Methods
 
 Our team utilized **informal feedback** and **user tests** to gather
