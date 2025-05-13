@@ -72,21 +72,27 @@ we place the search bar at the top of the screen since most users read
 from top to bottom. Another respondent appreciated our placement of
 the search bar and requested no changes to the layout.
 
-Among the six (n=6) participants from the user studies, two
-participants failed to complete Task 1, while the other four
-successfully completed Task 1. For both of the participants that failed to complete Task 1, this might have come as a result of the Task's wording, which might not have made it clear enough that they were expected to include the input song in the playlist as well. All six participants successfully
-completed Tasks 2 through 5.
-
-Completion rates for the tasks demonstrated below. Note that
-participants completed Tasks 4 and 5 using the competitor apps
-Spotify and Sort by Tune, respectively.
+Our user studies demanded that each user attempt 3 tasks using a
+development build of our app, and then complete two additional tasks
+using competitor apps Spotify and Sort by Tune, respectively. Among the
+six (n=6) participants from the user studies, two participants failed
+to complete Task 1, while the other four successfully completed Task 1.
+For both of the participants that failed to complete Task 1, this might
+have come as a result of the Task's wording, which might not have made
+it clear enough that they were expected to include the input song in
+the playlist as well. All six participants successfully completed
+Tasks 2 through 5.
 
 ![Completion Rate Stacked Bar
 Chart](completion-count-stacked-bar-chart.png)
 
 Participant reports of perceived difficulty for tasks determined that
 Task 2 challenged participants the most when using our app.
-Participants found Task 3 to be the easiest task to complete. Detailed
+Participants found Task 3 to be the easiest task to complete. Notably,
+the tasks that users struggled on the most were the ones done on our
+competitor apps. Tasks 4 and 5, done on Spotify and Sort By Tune,
+respectively, had overall much lower difficulty ratings, and were the
+only tasks that had difficulty rating responses below a 4. Detailed
 counts for difficulty ratings are shown in the graph below:
 
 ![User-Perceived Difficulty for
@@ -119,7 +125,9 @@ to the table data.
 
 When tasked with completing similar tasks in the competitor app,
 Spotify, four participants highlighted frustration with
-the amount of clicks and screen changes they navigated through.
+the amount of clicks and screen changes they navigated through. They
+also reported a high amount of screen cluttering that made navigation
+challenging.
 
 ## Conclusions
 
