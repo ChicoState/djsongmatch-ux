@@ -83,6 +83,14 @@ counts for difficulty ratings are shown in the graph below:
 ![User-Perceived Difficulty for
 Tasks](diff-ratings-stacked-bar-chart.png)
 
+Qualitative findings from the user studies identified that
+participants commonly read the tooltips describing the song parameters
+(Energy, Danceability, Loudness) before interacting with the sliders
+or buttons. One user also interacted with the "Help" button before
+interacting with the main slider and button content. A common first
+action for users is to explore our app's documentation and help
+screens.
+
 ## Conclusions
 
 <!-- !!! Discoveries derived from the methods and their findings.
