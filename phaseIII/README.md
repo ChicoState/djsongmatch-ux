@@ -77,6 +77,10 @@ participants failed to complete Task 1, while the other four
 successfully completed Task 1. For both of the participants that failed to complete Task 1, this might have come as a result of the Task's wording, which might not have made it clear enough that they were expected to include the input song in the playlist as well. All six participants successfully
 completed Tasks 2 through 5.
 
+Completion rates for the tasks demonstrated below. Note that
+participants completed Tasks 4 and 5 using the competitor apps
+Spotify and Sort by Tune, respectively.
+
 ![Completion Rate Stacked Bar
 Chart](completion-count-stacked-bar-chart.png)
 
