@@ -105,6 +105,22 @@ should only contain the song search bar. By isolating the search bar
 in this introductory frame, users would have less confusion over which
 element of the user interface they should interact with first.
 
+Four participants did not interact with the sliders in Task 1.
+Some participants commented that the sliders felt like a distraction
+and that they should be removed from the main page and stored in the
+Advanced Filters menu.
+
+Only two participants ever used the Advanced Filters menu. Other
+participants either only interacted with the three sliders on the main
+page or never interacted with sliders.
+
+None of the participants ever changed the input song. When
+participants wanted contrast, they only adjusted the sliders.
+
+Two participants identified that they expected the Export button to be
+closer to the tables because the data they expect to export is related
+to the table data.
+
 ## Caveats
 
 The limited diversity of audience members restricted the depth of our
