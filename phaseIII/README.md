@@ -139,7 +139,7 @@ informal feedback. We presented our demonstration and questions to a
 classroom of undergraduate software engineering students with an
 approximate average age of 20. As such, many respondents had
 above-average technical ability. Because of this, their perception of
-the user interface could differ from the perception of less
+the user interface could differ from that of less
 technologically adept users.
 
 The lack of demographic diversity in participants limited our insights
