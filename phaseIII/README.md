@@ -91,20 +91,6 @@ interacting with the main slider and button content. A common first
 action for users is to explore our app's documentation and help
 screens.
 
-## Conclusions
-
-<!-- !!! Discoveries derived from the methods and their findings.
-Interpret how the findings translate into new insights into UX design
-recommendations. Describe those recommendations and how they should
-shape future work. In this section, include the new design
-recommendations based on the latest user insights. !!! -->
-
-Based on the informal feedback, our usability team recommends creating
-a separate frame for when the user first opens the app. This frame
-should only contain the song search bar. By isolating the search bar
-in this introductory frame, users would have less confusion over which
-element of the user interface they should interact with first.
-
 Four participants did not interact with the sliders in Task 1.
 Some participants commented that the sliders felt like a distraction
 and that they should be removed from the main page and stored in the
@@ -120,6 +106,20 @@ participants wanted contrast, they almost always adjusted the sliders.
 Two participants identified that they expected the Export button to be
 closer to the tables because the data they expect to export is related
 to the table data.
+
+## Conclusions
+
+<!-- !!! Discoveries derived from the methods and their findings.
+Interpret how the findings translate into new insights into UX design
+recommendations. Describe those recommendations and how they should
+shape future work. In this section, include the new design
+recommendations based on the latest user insights. !!! -->
+
+Based on the informal feedback, our usability team recommends creating
+a separate frame for when the user first opens the app. This frame
+should only contain the song search bar. By isolating the search bar
+in this introductory frame, users would have less confusion over which
+element of the user interface they should interact with first.
 
 ## Caveats
 
