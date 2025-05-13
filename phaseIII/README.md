@@ -91,6 +91,12 @@ recommendations. Describe those recommendations and how they should
 shape future work. In this section, include the new design
 recommendations based on the latest user insights. !!! -->
 
+Based on the informal feedback, our usability team recommends creating
+a separate frame for when the user first opens the app. This frame
+should only contain the song search bar. By isolating the search bar
+in this introductory frame, users would have less confusion over which
+element of the user interface they should interact with first.
+
 ## Caveats
 
 The limited diversity of audience members restricted the depth of our
