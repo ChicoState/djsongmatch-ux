@@ -126,6 +126,12 @@ should only contain the song search bar. By isolating the search bar
 in this introductory frame, users would have less confusion over which
 element of the user interface they should interact with first.
 
+Many users did not interact with the sliders to complete Task 1 and
+some even found them to be distracting. Because of this, the usability
+team recommends removing the three Danceability, Energy, and Loudness
+sliders from the main page. Instead, the app should store all sliders
+in the Advanced Filters menu.
+
 ## Caveats
 
 The limited diversity of audience members restricted the depth of our
