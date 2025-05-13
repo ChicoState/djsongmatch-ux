@@ -19,6 +19,7 @@ DJ Song Match is software created to improve the process of finding compatible s
   - Created sketch for Home Page, Main Page (no dropdown), and Preset Menu
   - Performed Competitive Analysis on hand-sorting, Spotify auto-playlist, and Sort By Tune
   - Contributed to the Figma wireframes
+  - Moderated three User Tests
 
 # User-Centered Design Artifacts
 
@@ -40,7 +41,7 @@ Initial research and design concentrated on how DJ Song Match will improve the e
   <!-- - Unsatisfactory Graphical User Interfaces: **Cluttered and confusing** app interactions make navigating apps frustrating. -->
 - Heuristic evaluation highlighted effective design patterns and areas that could be improved upon:
   - **Keyboard shortcuts** and **advanced settings** could improve **efficiency** for experienced power-users.
-  - Generating matches lacks user **input** and **control**
+  - Generating matches lacks user **input** and **control**.
 - Personas and scenarios identified user experience needs:
   - **Beginner-friendly** interface for inexperienced artists
   - Easier song matching on **mobile** without the need for a **desktop computer**
@@ -80,6 +81,18 @@ Formative evaluations and outside input used in order to refine the layout, impr
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+Studies on how users interact with a working prototype of DJ Song Match will demonstrate current successes while guiding design changes to make the app more learnable for new users.
+
+- Informal feedback from audience given the question "Does the placement of the search bar feel natural to you, or would you expect it somewhere else?" helped understand **initial expectations**:
+  - Search bar should be the **first element** that is presented to users.
+  - Possible reason to **elevate search bar** position on the screen.
+- User tests highlighted **potential issues** while also demonstrating **competitive advantages**:
+  - Some users took time to read **tooltips** and **help button**.
+  - Heavy reliance on **manipulating sliders** to find new songs.
+  - **Advanced filters** were rarely used.
+  - Most users did not change **input song** past initial setup.
+  - Users were comfortable with **organizing playlists**.
+  - Most users were able to immediately find and understand how to **export playlists**.
+  - Participants tended to struggle more when **navigating competitor apps**.
 
 [Full phase III report](phaseIII/)
