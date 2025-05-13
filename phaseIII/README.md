@@ -67,6 +67,19 @@ we place the search bar at the top of the screen since most users read
 from top to bottom. Another respondent appreciated our placement of
 the search bar and requested no changes to the layout.
 
+Among the six (n=6) participants from the user studies, two
+participants failed to complete Task 1, while the other four
+successfully completed Task 1. All six participants successfully
+completed Tasks 2 through 5.
+
+![Completion Rate Stacked Bar
+Chart](completion-count-stacked-bar-chart.png)
+
+Participant reports of perceived difficulty for tasks determined that
+Task 2 challenged participants the most when using our app.
+Participants found Task 3 to be the easiest task to complete. Detailed
+counts for difficulty ratings are shown in the graph below:
+
 ![User-Perceived Difficulty for
 Tasks](diff-ratings-stacked-bar-chart.png)
 
