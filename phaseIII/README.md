@@ -88,13 +88,14 @@ counts for difficulty ratings are shown in the graph below:
 ![User-Perceived Difficulty for
 Tasks](diff-ratings-stacked-bar-chart.png)
 
-Qualitative findings from the user studies identified that
-participants commonly read the tooltips describing the song parameters
-(Energy, Danceability, Loudness) before interacting with the sliders
-or buttons. One user also interacted with the "Help" button before
-interacting with the main slider and button content. A common first
-action for users is to explore our app's documentation and help
-screens.
+Qualitative findings from the user studies identified that a common
+first action for users is to export our app's documentation and help
+screens. Three participants read the tooltips describing the song
+parameters (Energy, Danceability, Loudness) before interacting with
+the sliders or buttons. One user also interacted with the "Help"
+button before interacting with the main slider and button content.
+Users also self-reported that they found these areas of documentation
+to be helpful for the understanding.
 
 Four participants did not interact with the sliders in Task 1.
 Some participants commented that the sliders felt like a distraction
@@ -140,6 +141,11 @@ button to be positioned closer to the tables, we recommend that, in
 addition to the Export button in the top navigation bar, there should
 be another button in the playlist table that enables them to export
 their playlist.
+
+Based on the positive comments received by users regarding our
+tooltips and help screens, our design should not prioritize
+significantly changing the tooltip and help menu areas of our
+interface.
 
 ## Caveats
 
