@@ -7,22 +7,34 @@ solve and the focus of this interval of work !!! -->
 
 ## Methods
 
-Our team utilized **informal feedback** and **user tests** to
-gather external insights into our designs.
+Our team utilized **informal feedback** and **user tests** to gather
+external insights into our designs.
 
-The informal feedback first involved presenting a working product demonstration to an audience (n=35) of undergraduate software engineering students. During the demonstration, our software engineering team (n=6) executed key tasks within the app to highlight its different features. Following this showcase, our team asked the audience a single question to collect feedback.
+The informal feedback first involved presenting a working product
+demonstration to an audience (n=35) of undergraduate software
+engineering students. During the demonstration, our software
+engineering team (n=6) executed key tasks within the app to highlight
+its different features. Following this showcase, our team asked the
+audience a single question to collect feedback.
 
-Our software engineering and usability teams collaborated to determine which prompt question to present to the audience. Ultimately, we selected a question that would provide insights into the accessibility and layout of our user interface. Specifically, our software engineering team asked, "Does the placement of the search bar feel natural to you, or would you expect it somewhere else?" Our usability team would consider the answers to this question when refining our wireframes and prototypes.
+Our software engineering and usability teams collaborated to determine
+which prompt question to present to the audience. Ultimately, we
+selected a question that would provide insights into the accessibility
+and layout of our user interface. Specifically, our software
+engineering team asked, "Does the placement of the search bar feel
+natural to you, or would you expect it somewhere else?" Our usability
+team would consider the answers to this question when refining our
+wireframes and prototypes.
 
 Our team also conducted several user tests to receive both qualitative
 and quantitative feedback from users regarding our user interface.
 First, our team developed prototypes of our app that users could
 interact with. Then, our team selected six (n=6) total participants
-for our user tests. The user tests involved having one member of our team
-moderate a 30-minute testing session with one of the participants. In
-the sessions, our moderator provided the prototype to the participant
-and assigned them several tasks to complete by interacting with the
-prototype.
+for our user tests. The user tests involved having one member of our
+team moderate a 30-minute testing session with one of the
+participants. In the sessions, our moderator provided the
+prototype to the participant and assigned them several tasks to
+complete by interacting with the prototype.
 
 During the participant interactions, our moderator encouraged the
 participant to voice their thoughts with every interaction. Our
@@ -54,6 +66,9 @@ disagreed with our placement of the search bar. One recommended that
 we place the search bar at the top of the screen since most users read
 from top to bottom. Another respondent appreciated our placement of
 the search bar and requested no changes to the layout.
+
+![User-Perceived Difficulty for
+Tasks](diff-ratings-stacked-bar-chart.png)
 
 ## Conclusions
 
