@@ -48,6 +48,13 @@ research methods in here, not design documents/techniques/artifacts
 <!-- !!! For each research method, detail each of the findings to
 clarify new discoveries of users' needs !!! -->
 
+Responses to our informal feedback implied that the search bar should
+be the first interface element we present to users. Most respondents
+disagreed with our placement of the search bar. One recommended that
+we place the search bar at the top of the screen since most users read
+from top to bottom. Another respondent appreciated our placement of
+the search bar and requested no changes to the layout.
+
 ## Conclusions
 
 <!-- !!! Discoveries derived from the methods and their findings.
