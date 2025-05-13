@@ -113,6 +113,10 @@ Two participants identified that they expected the Export button to be
 closer to the tables because the data they expect to export is related
 to the table data.
 
+When tasked with completing similar tasks in the competitor app,
+Spotify, four participants highlighted frustration with
+the amount of clicks and screen changes they navigated through.
+
 ## Conclusions
 
 <!-- !!! Discoveries derived from the methods and their findings.
@@ -146,6 +150,10 @@ Based on the positive comments received by users regarding our
 tooltips and help screens, our design should not prioritize
 significantly changing the tooltip and help menu areas of our
 interface.
+
+Finally, the participants' frustration with Spotify's navigation
+system suggests that future iterations on our app's design should
+minimize separation of content to different screens.
 
 ## Caveats
 
