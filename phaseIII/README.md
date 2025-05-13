@@ -69,7 +69,7 @@ the search bar and requested no changes to the layout.
 
 Among the six (n=6) participants from the user studies, two
 participants failed to complete Task 1, while the other four
-successfully completed Task 1. All six participants successfully
+successfully completed Task 1. For both of the participants that failed to complete Task 1, this might have come as a result of the Task's wording, which might not have made it clear enough that they were expected to include the input song in the playlist as well. All six participants successfully
 completed Tasks 2 through 5.
 
 ![Completion Rate Stacked Bar
@@ -114,8 +114,8 @@ Only two participants ever used the Advanced Filters menu. Other
 participants either only interacted with the three sliders on the main
 page or never interacted with sliders.
 
-None of the participants ever changed the input song. When
-participants wanted contrast, they only adjusted the sliders.
+Only one of the participants ever changed the input song. When
+participants wanted contrast, they almost always adjusted the sliders.
 
 Two participants identified that they expected the Export button to be
 closer to the tables because the data they expect to export is related
